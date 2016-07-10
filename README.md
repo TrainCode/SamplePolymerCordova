@@ -10,7 +10,7 @@
     - npm install -g polymer-cli
 
 3. install git client and clone the application in the file system - run following command
-    - git clone https://github.com/kirangorad/SamplePolymerCordova.git
+    - git clone https://github.com/TrainCode/SamplePolymerCordova.git
 
 4. cd into the cloned directory/www folder - run following command
     - cd SamplePolymerCordova\www
